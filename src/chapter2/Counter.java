@@ -6,6 +6,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by xuran on 2018/12/6.
+ * 多线程计数器
+ * 普通自增和原子自增的比较
  */
 public class Counter {
     private AtomicInteger integer = new AtomicInteger(0);

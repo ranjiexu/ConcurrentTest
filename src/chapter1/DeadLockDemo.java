@@ -2,6 +2,8 @@ package chapter1;
 
 /**
  * Created by xuran on 2018/12/6.
+ * 死锁
+ * 查看造成死锁的原因：jps  jsstack
  */
 public class DeadLockDemo {
 
